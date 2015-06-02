@@ -35,3 +35,9 @@ Syntax:
   127.0.0.1                      1;
 ```
 Note: `0` = allow and `1` = deny.
+
+
+
+####
+ Sites: 
+   1. User-agent database - http://useragentstring.com/
